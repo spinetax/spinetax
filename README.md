@@ -1,6 +1,4 @@
-### Hi there, I'm spinetax 👋
-
-## I'm a Full Stack Developer!!
+## Hi there, I'm spinetax 👋
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love cinema and playing guitar
