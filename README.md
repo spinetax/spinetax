@@ -1,6 +1,6 @@
 ## Hi there, I'm spinetax 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love cinema and playing guitar
 
 ### Connect with me:
