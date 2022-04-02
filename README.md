@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spinetax</h1>
-<h3 align="center">Full Stack dev @<a href="https://outsourcify.net/">Outsourcify</a></h3>
+<h3 align="center">Full Stack dev <a href="https://outsourcify.net/">@Outsourcify</a></h3>
 
 - 🌱 I’m currently learning **Nuxt.js**
 
