@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spinetax&" alt="spinetax" /></p>
 
-<a align="center"href="https://app.daily.dev/spinetax"><img src="https://api.daily.dev/devcards/46ca081829ca431e92fbe65cb9808ebf.png?r=g6n" width="300" alt="spinetax's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/spinetax"><img src="https://api.daily.dev/devcards/46ca081829ca431e92fbe65cb9808ebf.png?r=g6n" width="300" alt="spinetax's Dev Card"/></a>
 
