@@ -2,8 +2,8 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Full Stack dev @Outsourcify</b></td>
-    <td><b style="font-size:30px">Currently working with Nuxt.js</b></td>
+    <b style="font-size:30px">Full Stack dev @Outsourcify</b>
+   <b style="font-size:30px">Currently working with Nuxt.js</b>
  </tr>
  <tr>
   <td>
